@@ -1,5 +1,5 @@
 ---
-title: La Universidad de Costa Rica, la mejor de Costa Rica y una de las mejores de Centroamérica
+ La Universidad de Costa Rica, la mejor de Costa Rica y una de las mejores de Centroamérica
 ---
 
 ![Imagen de la Universidad de Costa Rica](https://www.ucr.ac.cr/medios/fotos/2020/csm_nt20-64_42f1d96d735f773a834a3a8.jpg)
